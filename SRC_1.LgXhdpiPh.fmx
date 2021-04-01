@@ -1,0 +1,21 @@
+inherited Form1_LgXhdpiPh: TForm1_LgXhdpiPh
+  ClientHeight = 695
+  ClientWidth = 450
+  DesignerMasterStyle = 0
+  inherited WebBrowser1: TWebBrowser
+    Size.Width = 450.000000000000000000
+    Size.Height = 662.000000000000000000
+  end
+  inherited Panel1: TPanel
+    Size.Width = 450.000000000000000000
+    Size.Height = 33.000000000000000000
+    inherited Edit1: TEdit
+      Size.Width = 402.000000000000000000
+      Size.Height = 32.000000000000000000
+    end
+    inherited Button1: TButton
+      IconTintColor = claSandybrown
+      Size.Height = 48.000000000000000000
+    end
+  end
+end
